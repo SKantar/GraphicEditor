@@ -1,0 +1,17 @@
+eclipse.preferences.version=1
+encoding//src/grapheditor/actions/OpenProjectAction.java=UTF-8
+encoding//src/grapheditor/actions/SaveProjectAction.java=UTF-8
+encoding//src/grapheditor/actions/SearchElementAction.java=UTF-8
+encoding//src/grapheditor/actions/ZoomBestFitAction.java=UTF-8
+encoding//src/grapheditor/actions/ZoomInAction.java=UTF-8
+encoding//src/grapheditor/actions/ZoomLassoAction.java=UTF-8
+encoding//src/grapheditor/actions/ZoomOutAction.java=UTF-8
+encoding//src/grapheditor/app/AppCore.java=UTF-8
+encoding//src/grapheditor/gui/help/AboutApplicationDialog.java=UTF-8
+encoding//src/grapheditor/model/DiagramSelectionModel.java=UTF-8
+encoding//src/grapheditor/model/elements/DiagramDevice.java=UTF-8
+encoding//src/grapheditor/model/workspace/nodes/Project.java=UTF-8
+encoding//src/grapheditor/model/workspace/nodes/Workspace.java=UTF-8
+encoding//src/grapheditor/state/LinkState.java=UTF-8
+encoding//src/grapheditor/state/SelectState.java=UTF-8
+encoding//src/grapheditor/view/DiagramView.java=UTF-8
