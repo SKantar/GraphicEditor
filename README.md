@@ -23,7 +23,7 @@ Java VM >= 1.6 installed ( JDK 1.7 recommended)
 
 ##  Standard Run Instructions (For Developers)
 
-Follow These instructions if you wish to run G Switch and modify the source code
+Follow These instructions if you wish to run Graphic Editor and modify the source code
 as well.
 
 **Prerequisites:**
